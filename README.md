@@ -1,6 +1,6 @@
-# 🏆 DataWeave — Winner of the EY Data Integration Challenge
+# DataWeave — Winner of the EY Data Integration Challenge
 
-**An AI-powered data integration and lineage engine for auditable, explainable, and compliant ETL workflows.**
+**An agentic data integration and lineage engine for auditable, explainable, and compliant ETL workflows.**
 
 DataWeave redefines how organizations merge heterogeneous datasets by combining **LLM reasoning**, **human-in-the-loop validation**, and **enterprise-grade auditability**.  
 Built during the **EY Data Integration Challenge** @ Hack The Valley X, the system demonstrates what next-generation ETL should look like — transparent, traceable, and intelligent.
